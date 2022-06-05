@@ -5,4 +5,4 @@
 - Ветошкин Николай
 - Газизов Вадим
 
-Ссылка на демонстрацию работы: [youtube]([https://youtu.be/Yq7GzEmc6Pg](https://youtu.be/a-Yhyb_oq_M))
+Ссылка на демонстрацию работы: [youtube](https://youtu.be/a-Yhyb_oq_M)
